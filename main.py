@@ -1,4 +1,4 @@
-import random
+import rando
 from words import words
 import string
 
